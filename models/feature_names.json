@@ -1,0 +1,17 @@
+[
+  "have_ip",
+  "have_at",
+  "length_url",
+  "subdomain",
+  "redirection",
+  "http_check",
+  "tiny_url",
+  "prefix_suffix",
+  "dns",
+  "domain_age",
+  "domain_end",
+  "iframe",
+  "mouseover",
+  "rightclick",
+  "forwarding"
+]

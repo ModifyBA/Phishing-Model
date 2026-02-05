@@ -1,0 +1,9 @@
+{
+  "classes": [
+    "legitimate",
+    "phishing"
+  ],
+  "best_threshold": 0.3,
+  "label_col": "type",
+  "url_col": "url"
+}
